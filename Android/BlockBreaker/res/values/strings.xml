@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BlockBreakerActivity!</string>
+    <string name="app_name">BlockBreaker</string>
+    <string name="taptostart">Tap the Screen to Start the Game.......</string>
+    <string name="level">select level  </string>
+
+</resources>
